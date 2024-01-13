@@ -1,1 +1,1 @@
-
+This project demonstrates how to use natural language processing (NLP) techniques to perform sentiment analysis on user reviews of products on Amazon. Sentiment analysis is a subfield of NLP that aims to determine the sentiment or emotion underlying a given text.
